@@ -1,0 +1,29 @@
+---
+title: Пишем парсеры на Python
+output: html_document
+---
+
+
+## Логи семинаров
+
+### Семинар 1 
+
+* Изучаем синтаксис
+
+### Семинар 2 
+
+* Грабим ЦИАН 
+
+
+Лицензия
+----------
+Созданные для данного курса материалы распространяются по лицензии [Do What The Fuck You Want To Public License (WTFPL)](http://www.wtfpl.net/)
+
+<center>
+![](https://pp.vk.me/c628518/v628518275/387e/jkyZ06tAVpE.jpg)
+</center>
+
+
+
+
+
