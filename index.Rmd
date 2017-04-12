@@ -3,6 +3,11 @@ title: Пишем парсеры на Python
 output: html_document
 ---
 
+## Ссылки
+
+* [Свалка](https://github.com/FUlyankin/Parsers) разных файлов
+* [Прикольная книжка](https://github.com/FUlyankin/Parsers/raw/master/Ryan_Mitchell_Web_Scraping_with_Python-_Collecting_Data_from_the_Modern_Web_2015.pdf) про парсинг
+* [Прикольная книжка](https://github.com/FUlyankin/Parsers/raw/master/Python_Cookbook_3rd_Edition_proglib.pdf) про Python 
 
 ## Логи семинаров
 
