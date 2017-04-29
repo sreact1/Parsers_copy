@@ -9,11 +9,14 @@ output: html_document
 * [Прикольная книжка](https://github.com/FUlyankin/Parsers/raw/master/Ryan_Mitchell_Web_Scraping_with_Python-_Collecting_Data_from_the_Modern_Web_2015.pdf) про парсинг
 * [Прикольная книжка](https://github.com/FUlyankin/Parsers/raw/master/Python_Cookbook_3rd_Edition_proglib.pdf) про Python 
 
-## Логи семинаров
+## Логи семинаров 
 
 * **Семинар 1:**  [Блокнот](https://github.com/FUlyankin/Parsers/blob/master/sems/1_Python_intro.ipynb) с изучением синтаксиса
-* **Семинар 2:** [Блокнот](https://github.com/FUlyankin/Parsers/blob/master/sems/CIAN_parser.ipynb) с грабежом и разбоем ЦИАН 
-* **Семинар 3:** Мы отмоем от грязи украденные с ЦИАН данные, познакомимся с Pandas, регулярными выражениями, а после займёмся мышиным обучением! 
+* **Грабим и исследуем ЦИАН (проект номер 1):**
+  * [Блокнот](https://github.com/FUlyankin/Parsers/blob/master/sems/CIAN_parser.ipynb) с грабежом и разбоем ЦИАН 
+  * Отмываем ЦИАН от грязи
+  * Варим фичи и готовим данные к оцениванию моделей
+  * Мышиное обучение 
 
 
 Лицензия
