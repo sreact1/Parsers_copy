@@ -52,6 +52,11 @@ output: html_document
 
 
 
+
+
+<iframe src="https://stla.shinyapps.io/3Dsliced/" style="border: none; width: 900px; height: 500px"></iframe>
+
+
 Лицензия
 ----------
 Созданные для данного курса материалы распространяются по лицензии [Do What The Fuck You Want To Public License (WTFPL)](http://www.wtfpl.net/)
