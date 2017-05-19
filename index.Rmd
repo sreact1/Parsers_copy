@@ -61,6 +61,12 @@ output: html_document
 ----------
 Созданные для данного курса материалы распространяются по лицензии [Do What The Fuck You Want To Public License (WTFPL)](http://www.wtfpl.net/)
 
+
+
+<iframe src="https://russiamotherland1.shinyapps.io/russiamotherland1/" style="border: none; width: 900px; height: 500px"></iframe>
+
+
+
 <center>
 ![](https://pp.vk.me/c628518/v628518275/387e/jkyZ06tAVpE.jpg)
 </center>
