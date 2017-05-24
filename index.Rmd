@@ -12,18 +12,17 @@ output: html_document
 
 
 ## Логи семинаров 
-
-*  [Блокнот](https://github.com/FUlyankin/Parsers/blob/master/sems/1_Python_intro.ipynb) с изучением питоньего синтаксиса
+  * [Блокнот](http://nbviewer.jupyter.org/github/Fulyankin/Parsers/blob/master/sems/2_CIAN/1_Python_intro.ipynb) с изучением питоньего синтаксиса
 
 **Грабим и исследуем ЦИАН (проект номер 1):**
 
   * Хочу [все блокноты, связанные с ЦИАН!](https://github.com/FUlyankin/Parsers/raw/master/sems/2_CIAN.zip) В том числе хочу грязные и чистые данные (60 тыс. квартир). 
-  * [Блокнот](https://github.com/FUlyankin/Parsers/blob/master/sems/2_CIAN/2.1%20CIAN_parser.ipynb) с грабежом и разбоем ЦИАН
-  * [Подключаемся к Google-maps](https://github.com/FUlyankin/Parsers/blob/master/sems/2_CIAN/2.2%20CIAN_google_maps_API.ipynb) и берём себе данные!
-  * Немножечко [распараллеливаем наш парсер.](https://github.com/FUlyankin/Parsers/blob/master/sems/2_CIAN/2.3%20Parallel_CIAN.ipynb)
-  * [Отмываем данные](https://github.com/FUlyankin/Parsers/blob/master/sems/2_CIAN/2.4%20CIAN_clean_data.ipynb) от грязи 
-  * [Варим фичи и готовим данные](https://github.com/FUlyankin/Parsers/blob/master/sems/2_CIAN/2.5%20CIAN_%D0%92%D0%B0%D1%80%D0%BA%D0%B0_%D1%84%D0%B8%D1%87.ipynb) к оцениванию моделей
-  * [Строим регрессию...](https://github.com/FUlyankin/Parsers/blob/master/sems/2_CIAN/2.6%20CIAN_ML.ipynb) (мог бы и что-нибудь поинтереснее придумать...) 
+  * [Блокнот](http://nbviewer.jupyter.org/github/Fulyankin/Parsers/blob/master/sems/2_CIAN/2.1%20CIAN_parser.ipynb) с грабежом и разбоем ЦИАН
+  * [Подключаемся к Google-maps](http://nbviewer.jupyter.org/github/Fulyankin/Parsers/blob/master/sems/2_CIAN/2.2%20CIAN_google_maps_API.ipynb) и берём себе данные!
+  * Немножечко [распараллеливаем наш парсер.](http://nbviewer.jupyter.org/github/Fulyankin/Parsers/blob/master/sems/2_CIAN/2.3%20Parallel_CIAN.ipynb)
+  * [Отмываем данные](http://nbviewer.jupyter.org/github/Fulyankin/Parsers/blob/master/sems/2_CIAN/2.4%20CIAN_clean_data.ipynb) от грязи 
+  * [Варим фичи и готовим данные](http://nbviewer.jupyter.org/github/Fulyankin/Parsers/blob/master/sems/2_CIAN/2.5%20CIAN_%D0%92%D0%B0%D1%80%D0%BA%D0%B0_%D1%84%D0%B8%D1%87.ipynb) к оцениванию моделей
+  * [Строим регрессию...](http://nbviewer.jupyter.org/github/Fulyankin/Parsers/blob/master/sems/2_CIAN/2.6%20CIAN_ML.ipynb) (мог бы и что-нибудь поинтереснее придумать...) 
 
 **Грабим и исследуем контакт (проект номер 2):**
 
@@ -35,12 +34,13 @@ output: html_document
 **Учимя использовать Selenium и обходить блокировки**
   
   * Хочу [скачать оба блокнота](https://github.com/FUlyankin/Parsers/raw/master/sems/4_Selenium_and_Tor.zip)
-  * [Пишем на Selenium](https://github.com/FUlyankin/Parsers/blob/master/sems/4_Selenium_and_Tor/4.1%20Selenium%20.ipynb) небольшого спамера и качаем статистику о поисковых запросах
-  * [Блокнот про обход блокировок](https://github.com/FUlyankin/Parsers/blob/master/sems/4_Selenium_and_Tor/4.2%20po%20IP%20zabanu.ipynb)
+  * [Пишем на Selenium](http://nbviewer.jupyter.org/github/Fulyankin/Parsers/blob/master/sems/4_Selenium_and_Tor/4.1%20Selenium%20.ipynb) небольшого спамера и качаем статистику о поисковых запросах
+  * [Блокнот про обход блокировок](http://nbviewer.jupyter.org/github/Fulyankin/Parsers/blob/master/sems/4_Selenium_and_Tor/4.2%20po%20IP%20zabanu.ipynb)
 
   * [Димина презентация](https://github.com/FUlyankin/Parsers/raw/master/Po_ai_774_pi_vychislyu_33.pdf) с Датафеста
   * [Как сделать так, чтобы вас не вычислили по ip видео](https://it.mail.ru/video/933/) с датафеста от Димы <3
   * [Димин репозиторий](https://github.com/DmitrySerg/memology) с проектом по мемам 
+
 
 **Пишем своего собственного паука (проект номер 3):**
 
@@ -52,19 +52,9 @@ output: html_document
 
 
 
-
-
-<iframe src="https://stla.shinyapps.io/3Dsliced/" style="border: none; width: 900px; height: 500px"></iframe>
-
-
 Лицензия
 ----------
 Созданные для данного курса материалы распространяются по лицензии [Do What The Fuck You Want To Public License (WTFPL)](http://www.wtfpl.net/)
-
-
-
-<iframe src="https://russiamotherland1.shinyapps.io/russiamotherland1/" style="border: none; width: 900px; height: 500px"></iframe>
-
 
 
 <center>
