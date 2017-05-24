@@ -24,10 +24,10 @@ output: html_document
   * [Варим фичи и готовим данные](http://nbviewer.jupyter.org/github/Fulyankin/Parsers/blob/master/sems/2_CIAN/2.5%20CIAN_%D0%92%D0%B0%D1%80%D0%BA%D0%B0_%D1%84%D0%B8%D1%87.ipynb) к оцениванию моделей
   * [Строим регрессию...](http://nbviewer.jupyter.org/github/Fulyankin/Parsers/blob/master/sems/2_CIAN/2.6%20CIAN_ML.ipynb) (мог бы и что-нибудь поинтереснее придумать...) 
 
-**Грабим и исследуем контакт (проект номер 2):**
+**Грабим и исследуем контакт (проект номер 2) (мы его ещё не завершили! Доедлаем после паука.):**
 
-  * Учимся подключаться к вк
-  * Граф друзей
+  * [Учимся подключаться к вк.](http://nbviewer.jupyter.org/github/Fulyankin/Parsers/blob/master/sems/3_vk%20(in%20progress)/3.1%20Vk_Durov_verni_stenu.ipynb)
+  * [Граф друзей.](http://nbviewer.jupyter.org/github/Fulyankin/Parsers/blob/master/sems/3_vk%20(in%20progress)/3.2%20Vk_friends_graph.ipynb)
   * Попытка проникнуть в чужую личную жизнь...
   * Анализ лайков. Прогноз лайков. Предсказание того кто ты по лайкам (можем тут упороться надолго)
 
