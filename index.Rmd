@@ -12,41 +12,41 @@ output: html_document
 
 
 ## Логи семинаров 
-  * [Блокнот](http://nbviewer.jupyter.org/github/Fulyankin/Parsers/blob/master/sems/2_CIAN/1_Python_intro.ipynb) с изучением питоньего синтаксиса
+* [Блокнот](http://nbviewer.jupyter.org/github/FUlyankin/Parsers/blob/master/sems/1_Python_intro.ipynb) с изучением питоньего синтаксиса
 
 **Грабим и исследуем ЦИАН:**
 
-  * [Блокнот](http://nbviewer.jupyter.org/github/Fulyankin/Parsers/blob/master/sems/2_CIAN/2.1%20CIAN_parser.ipynb) с грабежом и разбоем ЦИАН
-  * [Подключаемся к Google-maps](http://nbviewer.jupyter.org/github/Fulyankin/Parsers/blob/master/sems/2_CIAN/2.2%20CIAN_google_maps_API.ipynb) и берём себе данные!
-  * Немножечко [распараллеливаем наш парсер.](http://nbviewer.jupyter.org/github/Fulyankin/Parsers/blob/master/sems/2_CIAN/2.3%20Parallel_CIAN.ipynb)
-  * [Отмываем данные](http://nbviewer.jupyter.org/github/Fulyankin/Parsers/blob/master/sems/2_CIAN/2.4%20CIAN_clean_data.ipynb) от грязи 
+* **Примечание:** Не так давно ЦИАН ввёл капчу. Рано или поздно она выскакивает и приходится её обходить.
+* [Блокнот](http://nbviewer.jupyter.org/github/FUlyankin/Parsers/blob/master/sems/2_CIAN/2.1%20CIAN_parser.ipynb) с грабежом и разбоем ЦИАН
+* [Подключаемся к Google-maps](http://nbviewer.jupyter.org/github/FUlyankin/Parsers/blob/master/sems/2_CIAN/2.2%20CIAN_google_maps_API.ipynb) и берём себе данные!
+* Немножечко [распараллеливаем наш парсер.](http://nbviewer.jupyter.org/github/FUlyankin/Parsers/blob/master/sems/2_CIAN/2.3%20Parallel_CIAN.ipynb)
+* [Отмываем данные](http://nbviewer.jupyter.org/github/FUlyankin/Parsers/blob/master/sems/2_CIAN/2.4%20CIAN_clean_data.ipynb) от грязи 
  
 
 **Учимся обходить блокировки** 
   
-  * [Блокнот с обходом блокировок]( )
+  * [Наша с Димой статья](https://habrahabr.ru/company/ods/blog/346632/) по основам парсигна, обходу блокировок и сбору мемов в Python на Хабре.
   * [Димина презентация](https://github.com/FUlyankin/Parsers/raw/master/Po_ai_774_pi_vychislyu_33.pdf) с Датафеста
   * [Как сделать так, чтобы вас не вычислили по ip видео](https://it.mail.ru/video/933/) с датафеста от Димы <3
   * [Димин репозиторий](https://github.com/DmitrySerg/memology) с проектом по мемам 
 
-  
 
 **Грабим и исследуем контакт:**
 
-  * [Качаем данные из контакта, проверям гипотезы о группах, смотрим на лайки и рисуем графы ](http://nbviewer.jupyter.org/github/FUlyankin/Parsers/blob/master/Actual_new_parsers%20/vk_parser_tutorial.ipynb)
+  * [Качаем данные из контакта, проверям гипотезы о группах, смотрим на лайки и рисуем графы ](http://nbviewer.jupyter.org/github/FUlyankin/ekanam_grand_research/blob/master/0.%20vk_parser_tutorial.ipynb)
 
 **Учимя использовать Selenium**
 
-  * [Пишем на Selenium](http://nbviewer.jupyter.org/github/Fulyankin/Parsers/blob/master/sems/4_Selenium_and_Tor/4.1%20Selenium%20.ipynb) небольшого спамера и качаем статистику о поисковых запросах
+  * [Пишем на Selenium](http://nbviewer.jupyter.org/github/FUlyankin/Parsers/blob/master/sems/3_Selenium_and_Tor/4.1%20Selenium%20.ipynb) небольшого спамера и качаем статистику о поисковых запросах. 
 
 
-## Ещё больше парсеров (большая часть не закончена) 
 
-* [Google-maps](https://github.com/FUlyankin/Parsers/blob/master/Actual_new_parsers%20/Google_maps_API.ipynb)
-* [Tass](https://github.com/FUlyankin/Parsers/blob/master/Actual_new_parsers%20/news_tass_download_2017.ipynb)
-* [Avito](https://github.com/FUlyankin/Parsers/blob/master/Actual_new_parsers%20/ofice_avito_parser.ipynb)
-* [Wiki](https://github.com/FUlyankin/Parsers/tree/master/Actual_new_parsers%20/Wikipedia)
+### Ещё немного парсеров (некоторые не окончены)
 
+* [ЦИК и выборы](http://nbviewer.jupyter.org/github/FUlyankin/Parsers/blob/master/Parsers%20/Результаты%20Выборов/Фальсификации%2C%20выборы.ipynb)
+* [Google-maps](http://nbviewer.jupyter.org/github/FUlyankin/Parsers/blob/master/Parsers%20/Google_maps_API.ipynb)
+* [Google-trends](http://nbviewer.jupyter.org/github/FUlyankin/Parsers/blob/master/Parsers%20/google_trends_selenium_parser.ipynb)
+* [Разные СМИ](http://nbviewer.jupyter.org/github/FUlyankin/Parsers/blob/master/Parsers%20/News_parser/Парсер%20разных%20СМИ.ipynb) и их [лемматизация](http://nbviewer.jupyter.org/github/FUlyankin/Parsers/blob/master/Parsers%20/News_parser/Universal_lemmatizator.ipynb)
 
 
 
